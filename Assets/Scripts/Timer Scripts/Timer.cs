@@ -9,7 +9,7 @@ public class Timer : MonoBehaviour
 {
     public string LevelToLoad;
     private float currentTime = 0f;
-    private float startingTime = 10f;
+    private float startingTime = 15f;
     [SerializeField]
     Text timerDisplay;
     void Start()
