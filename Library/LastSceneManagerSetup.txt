@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FirstQuestion.unity
+- path: Assets/Scenes/Questions/FifthQuestion.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
